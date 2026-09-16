@@ -1,5 +1,6 @@
 dms-shell-git
 dms-shell-git-debug
+konsave
 visual-studio-code-bin
 yay-bin
 yay-bin-debug

@@ -26,6 +26,7 @@ intel-media-driver
 intel-ucode
 kate
 kitty
+konsave
 libpulse
 libreoffice-fresh
 libva-intel-driver
