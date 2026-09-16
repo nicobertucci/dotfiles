@@ -1,0 +1,38 @@
+{
+  	
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "display": {
+    "color": {
+      "keys": "#D0BCFF",      // Color of labels (OS, Host, Kernel, etc.)
+      "title": "#D0BCFF",        // Color of user@hostname
+      "separator": "white"    // Color of the "---" separator line
+    },
+    "brightColor": true       // Use bright variants (bright_magenta, bright_cyan, etc.)
+  },
+  "logo": {
+    "type": "file",
+    "source": "~/.config/fastfetch/aphex.txt",
+    "color": {
+      "1": "white",         // Primary color in the logo
+      "2": "cyan",            // Secondary color (if supported by the logo)
+      "3": "blue"
+    },
+    "padding": {
+      "right": 2
+    }
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "shell",
+    "de",
+    "wm",
+    "localip",
+    "break",
+    "colors"
+  ]
+}
