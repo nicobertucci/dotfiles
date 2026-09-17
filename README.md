@@ -1,5 +1,3 @@
-Private Dotfiles for Arch Setup 
-
 ## Part 1: Archinstall
 
 Install Arch with archinstall.
