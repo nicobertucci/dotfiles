@@ -7,11 +7,10 @@ bluez
 bluez-utils
 brightnessctl
 cava
+cmake
 cups
 cups-pk-helper
-discord
-dms-shell-git
-dms-shell-niri
+dms-shell
 dolphin-plugins
 efibootmgr
 fastfetch
@@ -41,6 +40,8 @@ networkmanager
 niri
 noto-fonts
 noto-fonts-emoji
+nvidia-prime
+obsidian
 okular
 openconnect
 pipewire
@@ -50,6 +51,7 @@ pipewire-pulse
 plasma-meta
 playerctl
 power-profiles-daemon
+rustup
 smartmontools
 spotify-launcher
 starship
@@ -59,9 +61,12 @@ ttf-dejavu
 ttf-liberation
 vim
 visual-studio-code-bin
+vulkan-headers
 vulkan-intel
 vulkan-nouveau
 vulkan-radeon
+vulkan-validation-layers
+wayland-protocols
 wget
 wireplumber
 wpa_supplicant

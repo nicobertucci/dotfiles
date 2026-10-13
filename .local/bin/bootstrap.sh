@@ -14,4 +14,11 @@ fi
 echo "==> Installing AUR packages..."
 yay -S --needed - < ~/.config/pkglist-aur.txt
 
+echo "==> Setting default file manager and dark mode..."
+# Set Dolphin as the default file manager
+xdg-mime default org.kde.dolphin.desktop inode/directory
+
+# Enforce GTK dark mode for apps like Firefox
+gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+
 echo "==> Setup complete!"

@@ -30,6 +30,7 @@
   "blurEnabled": true,
   "controlCenterShowMicPercent": true,
   "appIdSubstitutions": [],
+  "networkPreference": "wifi",
   "cursorSettings": {
     "theme": "System Default",
     "size": 24,
@@ -83,6 +84,10 @@
       "rightWidgets": [
         "systemTray",
         "memUsage",
+        {
+          "id": "keyboard_layout_name",
+          "enabled": true
+        },
         {
           "id": "colorPicker",
           "enabled": true
@@ -154,7 +159,8 @@
     "hslHue": -1,
     "hslSaturation": 0,
     "hslLightness": 1,
-    "valid": true
+    "valid": true,
+    "rgba": -1
   },
   "systemMonitorCustomColor": {
     "r": 1,
@@ -167,7 +173,8 @@
     "hslHue": -1,
     "hslSaturation": 0,
     "hslLightness": 1,
-    "valid": true
+    "valid": true,
+    "rgba": -1
   },
   "builtInPluginSettings": {
     "dms_settings_search": {

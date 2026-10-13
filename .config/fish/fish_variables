@@ -7,11 +7,10 @@ SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fish
 SETUVAR _fisher_plugins:jorgebucaran/fisher\x1eilancosman/tide\x40v6
 SETUVAR _fisher_upgraded_to_4_4:\x1d
 SETUVAR _tide_left_items:pwd\x1egit\x1enewline\x1echaracter
-SETUVAR _tide_prompt_1532:\x1b\x5bm\x1b\x5b49m\x40PWD\x40\x1b\x5bm\x20\x1e\x1b\x5b38\x3b2\x3b95\x3b215\x3b0m\u276e
-SETUVAR _tide_prompt_3473:\x1b\x5bm\x1b\x5b49m\x40PWD\x40\x1b\x5bm\x20\x1e\x1b\x5b38\x3b2\x3b95\x3b215\x3b0m\u276e
+SETUVAR _tide_prompt_2316:\x1b\x5bm\x1b\x5b49m\x40PWD\x40\x1b\x5bm\x20\x1e\x1b\x5b38\x3b2\x3b95\x3b215\x3b0m\u276e
 SETUVAR _tide_prompt_45744:\x1b\x5bm\x1b\x5b49m\x40PWD\x40\x1b\x5bm\x20\x1e\x1b\x5b38\x3b2\x3b95\x3b215\x3b0m\u276e\x1e\x1b\x5bm\x20\x1b\x5b38\x3b2\x3b135\x3b135\x3b95\x3b49m9m\x2013s\x1b\x5bm
 SETUVAR _tide_prompt_76960:\x1b\x5bm\x1b\x5b49m\x40PWD\x40\x1b\x5bm\x20\x1e\x1b\x5b38\x3b2\x3b95\x3b215\x3b0m\u276e\x1e\x1b\x5bm\x20\x1b\x5b38\x3b2\x3b135\x3b135\x3b95\x3b49m8s\x1b\x5bm
-SETUVAR _tide_right_items:status\x1ecmd_duration\x1econtext\x1ejobs\x1epython
+SETUVAR _tide_right_items:status\x1ecmd_duration\x1econtext\x1ejobs\x1epython\x1erustc
 SETUVAR fish_greeting:
 SETUVAR tide_aws_bg_color:normal
 SETUVAR tide_aws_color:FF9900
